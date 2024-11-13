@@ -1,0 +1,9 @@
+[submodule "bing-wallpaper"]
+	path = bing-wallpaper
+	url = git@github.com:v5tech/bing-wallpaper.git
+[submodule "wallpapers"]
+	path = wallpapers
+	url = git@github.com:elementary/wallpapers.git
+[submodule "makccr-wallpapers/wallpapers"]
+	path = makccr-wallpapers/wallpapers
+	url = git@github.com:makccr/wallpapers.git
